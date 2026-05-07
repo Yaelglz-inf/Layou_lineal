@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Layou_lineal</string>
+
+    <string name="btnUpdate">Actualizar</string>
+
+    <string name="ettName">Nombre</string>
+    <string name="ettNumber">Numero</string>
+
+    <string name="tvwGreeting">Bienvenido</string>
+
+
+
+
+</resources>
